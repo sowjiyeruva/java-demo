@@ -23,7 +23,7 @@
 	  max-width: 100%;
 	  min-height: 20%;
 	  min-width: 30%;
-	  background-image: url("static/images/pwc-banner.PNG");
+	  background-image: url("pwc-banner.PNG");
 	background-size: contain;
 	background-repeat:no-repeat;
 	}
@@ -32,7 +32,7 @@
 	  width: 100%;
 	  max-height: 100%;
 	  max-width: 100%;
-	  background-image: url("static/images/simplilearn.png");
+	  background-image: url("simplilearn.png");
 	  background-size: cover;
 	}
 	.card{
@@ -71,7 +71,7 @@
       <div class="navbar navbar-dark bg-dark box-shadow" style=" background-color:#f2f2f2!important;">
         <div class="container d-flex justify-content-between">
           <a href="#" class="navbar-brand d-flex align-items-center">
-			<img src="static/images/logo.png" width="100px;" height="100px;">
+			<img src="logo.png" width="100px;" height="100px;">
 		  
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
@@ -113,7 +113,7 @@
 		 <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="static/images/docker.png" alt="Card image cap">
+                <img class="card-img-top" src="docker.png" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Learning â Blended to Perfection</p>
                   <div class="d-flex justify-content-between align-items-center">
@@ -128,7 +128,7 @@
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="static/images/java.png" alt="Card image cap">
+                <img class="card-img-top" src="java.png" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Validated & Certified</p>
                   <div class="d-flex justify-content-between align-items-center">
@@ -144,7 +144,7 @@
 
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-               <img class="card-img-top" src="static/images/PwC.jpg" alt="Card image cap">
+               <img class="card-img-top" src="PwC.jpg" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Achieve Your Dreams</p>
                   <div class="d-flex justify-content-between align-items-center">
