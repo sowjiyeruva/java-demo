@@ -145,7 +145,7 @@
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
 
-               <img class="card-img-top" src="PWC.jpg" alt="Card image cap">
+               <img class="card-img-top" src="pwc.jpg" alt="Card image cap">
 
 
                 <div class="card-body">
