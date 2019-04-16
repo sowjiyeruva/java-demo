@@ -6,7 +6,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>PwC Docker Lab's</title>
+    <title>Dockerized JAVA application</title>
 
     <!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></link>
@@ -23,7 +23,7 @@
 	  max-width: 100%;
 	  min-height: 20%;
 	  min-width: 30%;
-	  background-image: url("pwc-banner.PNG");
+	  background-image: url("java-docker.jpg");
 	background-size: contain;
 	background-repeat:no-repeat;
 	}
@@ -145,7 +145,7 @@
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
 
-               <img class="card-img-top" src="pwc.jpg" alt="Card image cap">
+               <img class="card-img-top" src="logo.png" alt="Card image cap">
 
 
                 <div class="card-body">
