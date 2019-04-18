@@ -1,0 +1,14 @@
+version: 0.2
+
+phases: 
+	build:
+		commands:
+			- echo Build started on `date`
+			- mvn package -Dmaven.test.skip=true 
+		post_build:
+		  commands:
+		  	- echo Build completed on `date`
+		  	- mvn verify
+artifacts:
+		files:
+		  - target/dependency/webapp-runner.jar target/*.war
