@@ -71,8 +71,7 @@
       <div class="navbar navbar-dark bg-dark box-shadow" style=" background-color:#f2f2f2!important;">
         <div class="container d-flex justify-content-between">
           <a href="#" class="navbar-brand d-flex align-items-center">
-			<img src="logo.png" width="100px;" height="100px;">
-		  
+			<h2>Java-Docker-Lab</h2>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -145,7 +144,7 @@
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
 
-               <img class="card-img-top" src="logo.png" alt="Card image cap">
+               <h2>Java-Docker-Lab</h2>
 
 
                 <div class="card-body">

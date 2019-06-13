@@ -1,0 +1,24 @@
+Searching 20 files for "logo"
+
+/Users/arshad/Desktop/all-docs/traninig docs master/java-docker/target/java-tomcat-maven-example-lovespipelinedemo.war:
+    <binary>
+
+/Users/arshad/Desktop/all-docs/traninig docs master/java-docker/target/java-tomcat-maven-example-lovespipelinedemo/index.jsp:
+   72          <div class="container d-flex justify-content-between">
+   73            <a href="#" class="navbar-brand d-flex align-items-center">
+   74: 			<img src="logo.png" width="100px;" height="100px;">
+   75  		  
+   76            </a>
+   ..
+  146                <div class="card mb-4 box-shadow">
+  147  
+  148:                <img class="card-img-top" src="logo.png" alt="Card image cap">
+  149  
+  150  
+
+4 matches across 2 files
+
+
+Searching 20 files for "src="logo.png""
+
+0 matches
