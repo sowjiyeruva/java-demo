@@ -19,8 +19,7 @@
 	.banner-nissan {
 		height: 600px;
 		width: 100%;
-		max-width: 100%;
-		min-height: 20%;
+ 		min-height: 20%;
 		min-width: 30%;
 		background-image: url("java-docker.jpg");
 		background-size: contain;
